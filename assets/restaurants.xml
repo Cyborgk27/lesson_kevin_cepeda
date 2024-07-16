@@ -1,0 +1,32 @@
+<restaurants>
+    <restaurant>
+        <name>Restaurante El Buen Sabor</name>
+        <country>Ecuador</country>
+        <description>Disfruta de los mejores platos tradicionales con un toque moderno.</description>
+        <image_url>https://as1.ftcdn.net/v2/jpg/00/91/56/44/1000_F_91564488_m6oRPd10rxEsRRxXaEC0PYL0SS8jdSzF.jpg</image_url>
+    </restaurant>
+    <restaurant>
+        <name>La Casa de la Pasta</name>
+        <country>Ecuador</country>
+        <description>Auténtica comida italiana hecha con amor y pasión.</description>
+        <image_url>https://as1.ftcdn.net/v2/jpg/03/24/73/92/1000_F_324739203_keeq8udvv0P2h1MLYJ0GLSlTBagoXS48.jpg</image_url>
+    </restaurant>
+    <restaurant>
+        <name>Grill & Chill</name>
+        <country>Ecuador</country>
+        <description>El mejor lugar para disfrutar de carnes a la parrilla y una atmósfera relajante.</description>
+        <image_url>https://as2.ftcdn.net/v2/jpg/02/83/40/05/1000_F_283400521_EBWKN3NMtZexYj7qHxQCf0ba999WZM8d.jpg</image_url>
+    </restaurant>
+    <restaurant>
+        <name>Sushi World</name>
+        <country>Ecuador</country>
+        <description>Experimenta la auténtica cocina japonesa con los mejores ingredientes frescos.</description>
+        <image_url>https://as2.ftcdn.net/v2/jpg/07/26/42/57/1000_F_726425716_2rebvevT6nUAP68PFeTmeNSozFCcTEFz.jpg</image_url>
+    </restaurant>
+    <restaurant>
+        <name>Café Delights</name>
+        <country>Ecuador</country>
+        <description>Un lugar acogedor para disfrutar de café gourmet y deliciosos postres.</description>
+        <image_url>https://as2.ftcdn.net/v2/jpg/07/94/19/19/1000_F_794191998_L1RTtR9d0sAPS2Xt8flpA3vmqxjJeQ0P.jpg</image_url>
+    </restaurant>
+</restaurants>
